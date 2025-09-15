@@ -137,16 +137,7 @@ function retrieveData(user, query):
 
 ---
 
-## 5. Submission Criteria Checklist
-
-- **High-Level Diagrams:** Included above (Mermaid diagram).
-- **Pseudocode:** Provided for key functions.
-- **Thought Process & Trade-offs:** Explained for each component.
-- **Research/References:** Technologies chosen based on industry standards (Kafka, S3, Spark, IAM).
-
----
-
-## 6. References
+## 5. References
 
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
 - [Amazon S3 Best Practices](https://docs.aws.amazon.com/AmazonS3/latest/userguide/best-practices.html)
@@ -155,6 +146,6 @@ function retrieveData(user, query):
 
 ---
 
-## 7. Conclusion
+## 6. Conclusion
 
 This solution balances scalability, reliability, security, and cost. Trade-offs are made for operational complexity versus ease of scaling and resilience. The technologies proposed are industry-proven and can be tailored to specific space agency needs.
