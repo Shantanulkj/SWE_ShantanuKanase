@@ -1,6 +1,6 @@
 # Satellite Data Pipeline for Space Agencies
 
-## 1. Problem Statement Recap
+## 1. Problem Statement 
 
 Design a large-scale data pipeline to process, store, and deliver satellite data (terabytes to petabytes). The system must be scalable, highly available, fault-tolerant, and secure, serving mission-critical applications for space agencies.
 
